@@ -1,6 +1,10 @@
-# build11
+# Adelphi Marketing Dashboard
 
-## Project setup
+A dashboard for the management of Adelphi Marketing to get a quick snapshot of how the business is doing and how projects are coming along.
+
+
+## Deployment
+### Project setup
 ```
 npm install
 ```
